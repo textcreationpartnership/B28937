@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Resolvtion of the women of London to the Parliament wherein they declare their hot zeale in sending their husbands to the warres in defence of King and Parliament : as also the proceedings of the King at York, with their full determination in maintaing this their resolution to the admiration of the reader.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28937</idno><idno type="EEBO-CITATION">12264304</idno>
+  <idno type="VID">197549</idno>
+  <idno type="EEBO-PROQUEST">2240952574</idno>
+  
+            <idno type="STC">Wing R1159</idno>
+            <idno type="STC">Thomason v.I, pt.I, p. 160</idno>
+            <idno type="OCLC">12264304</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197549)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E114, no 14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Resolvtion of the women of London to the Parliament wherein they declare their hot zeale in sending their husbands to the warres in defence of King and Parliament : as also the proceedings of the King at York, with their full determination in maintaing this their resolution to the admiration of the reader.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Thomason Coll.</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Imperfect: T.p. torn at bottom and imprint is lacking on filmed copy.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:197549:1"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:197549:1"/>
+            <p>THE RESOLVTION Of the Women of <hi>London</hi> to the Parliament.</p>
+            <p>Wherein they declare their hot zeale in sendnig their busbands to the warres, in defence of King and Parliament, as also the procee<g ref="char:EOLhyphen"/>dlngs of the King a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> York, with their full determination in maintaining this their Resolution, to the admiration of the Reader.</p>
+            <p>With their desires to the Parliament that this may be printed.</p>
+            <figure>
+               <figDesc>depiction of a woman admonishing her husband to go to war</figDesc>
+               <sp>
+                  <p>Go to the wars.</p>
+               </sp>
+               <p>
+                  <add>Aug. 26</add>
+               </p>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197549:2"/>
+            <pb facs="tcp:197549:2"/>
+            <head>The Resolution of the women of <hi>London</hi> at a meeting in the Garden Allies in Moore Fields.</head>
+            <p>BE it known that we the women of London, or ra<g ref="char:EOLhyphen"/>ther the women kinde, or female sex, whether wives, widowes, maids, or foolish virgines, if there bee any such, of what size soever we be, low or tall, or of whatsoever con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ition, whether rich or poore, great or small, honest or halfe honest, even from the blacke-bagge to the Oyster-wench, doe all agree, that if there should be warrs, as wee doe shrewdly suspect it by the daily noise of Drummes, the great preparations which are made, and the powder which is continually spent, to<g ref="char:EOLhyphen"/>gether with the cracking of Guns in the streets, we that are wives, and are troubled with bad husbands, that will spend all abroad, and then come home and use us scurvily, beating us out of doores, doe purpose to use our tongues in such a violent manner, that our continuall scolding shall make them goe to the warres, and then will we in our husbands absence, live as merrily as may be, drinke, feast, and walk abroad; and if we have a minde to it, keep and maintaine a friend, that upon occasion may doe us a pleasure: let our husbands fight, they are mad-brain'd e<g ref="char:EOLhyphen"/>nough, they can fight with their poore wives, let them try now if they can fight with their enemies. As for Wi<g ref="char:EOLhyphen"/>dowes, they have no hu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bands to lose; and some of them ate so old, that <hi>Cupid</hi> is their malignant party, they can<g ref="char:EOLhyphen"/>not get husbands for love nor money, and therefore they
+<pb facs="tcp:197549:3"/> are resolved to marry none but Cavaliers. I would all the Cavaliers would matcht to these old Gunnes, that they might leave taking Castles, and marry these old Crones, who during the time of the warres, are resolved to sit still in their chambers and doe nothing, not so much as say their prayers, contriving onely by what means they may secure their gold from being taken away by the enemy. Maids are also resolved, that the report of wars shall not beat the strong conceit of a hu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>band out of their minds; but if they can, they will marry, if it bee but to bring a race of Souldiers inso the world; and to the end that they may maintaine themselves in a generous fashion, there being such a plenitude and plenty of maids, that one spoiles the others markets in the way of matrimony, some m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ids are fully resolved to expose themselves and their commodities to trading, not doubting but to have three for one for every adventure, and afterward make very good wives for hungry Souldiers, at their returne from the warres. But because we will not seeme to iest in a matter of earnest, therefore seeing the Kings Maiesty hath withdrawne himselfe from his Parliament, and hath disencouraged their proceedings, nay, and which is worse, hath raised an Army to destroy us all, God blesse us; we women must needs descant upon these words of dange<g ref="char:EOLhyphen"/>rous consequence: for we know that men are drawne a<g ref="char:EOLhyphen"/>way by severall means and occasions, some by wine, some by covetousnesse, and some (though we say it our selves) by women; but to with-draw is a word of great impor<g ref="char:EOLhyphen"/>tance, and will affoord many observations we coniecture, that in this place it signifies to bee drawne by the ma<g ref="char:EOLhyphen"/>lignant party; or if the word be turned, we women know that <hi>draw with</hi> are words of doubtfull construction, som<g ref="char:EOLhyphen"/>times to be drawne with temptation, as wee women are
+<pb facs="tcp:197549:3"/> often drawne with faire alluring promises; or in a more particular sense, though somewhat opprobrious to bee drawne with an affection of strong drinke to pawne our petticoats, to be drawne with the love of this or that new fangle, to put our husbands to charge for the procuring thereof; to be drawne with the delights, pleasures, pa<g ref="char:EOLhyphen"/>stimes, or to be drawne with the love of any thing whe<g ref="char:EOLhyphen"/>ther fine apparrell, good wine, good cheere, gay gar<g ref="char:EOLhyphen"/>ments and pretious stones, all this is to be withdrawn with the concupiscence of our own desires, or to be drawn with our owne desires and concupiscence; and so we up<g ref="char:EOLhyphen"/>on assured grounds doe conceive without the help of any Courtiers or Scollars: That the King is withdrawne by some wicked counsellors, commonly called the malig<g ref="char:EOLhyphen"/>nant party, or else drawn with the advice of some wicked counsellor. We say no more, yet somthing we will say more. It follows in the nex<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> place, that the King hath withdrawne himself, which is a matter to be thought up<g ref="char:EOLhyphen"/>on: for many a man is withdrawne when hee is not him<g ref="char:EOLhyphen"/>selfe, and is none of his owne man as we say, but is indeed stark drunk; but the King God be thanked, is a wise, gra<g ref="char:EOLhyphen"/>cious, and temperate Prince, a Soveraigne that can reigne and rule over his owne passions, and therefore it may ve<g ref="char:EOLhyphen"/>ry well seeme strange, even to women of the best under<g ref="char:EOLhyphen"/>standing, that the King hath withdrawne himselfe: for if the King had been withdrawn and not himselfe, or him<g ref="char:EOLhyphen"/>selfe had been withdrawne and not the King, it had then been very likely that the King might in time have with<g ref="char:EOLhyphen"/>drawn himselfe from those evill wicked counsellors, who have not onely withdrawne the King and himselfe, but al<g ref="char:EOLhyphen"/>so himselfe and the King: and indeed to speake plainly, the Kings owne selfe.</p>
+            <pb facs="tcp:197549:4"/>
+            <p>But from whom have they withdrawne the Kings own selfe; for that is a point very considerable, the words im<g ref="char:EOLhyphen"/>mediatly following make it apparant from whom it is, even from his friends, from those that seek his good; and pitty it is it should be so, even in a word, from his faithful loving Parliament; had these wicked counsellors with<g ref="char:EOLhyphen"/>drawne him from shewing any favour to Papists, and those that are Popishly inclined, or withdrawne him from the Cavaliers, or withdrawne him onely from the City, whereby some women of good carriage have lived very poorly, for want of the Courtiers company; yet all this might have been born with patience, but they have withdrawne him from the Parliament, that is to say, ma<g ref="char:EOLhyphen"/>ny miles distant from the Parliament; neither was it a small iourney that he took, but they have withdrawn him from the Parliament to York; and surely they were none of his friends that advised him to absent himselfe from his Court at White-hall, from his hunting and other pastimes, and from us though the weakest vessels, yet full of loyalty to his Maiesty: therefore we women doe con<g ref="char:EOLhyphen"/>stantly affirme, that this counsell of withdrawing the King, and the Kings selfe, which aggravates the matter, was a kind of malitious treason, and the counsellors de<g ref="char:EOLhyphen"/>serve, in the iudgement of all true hearted women, to be hang'd and drawne that have thus withdrawne the King and the Kings selfe from his loving loyall Parliament.</p>
+            <p>And what hath this produced? It is most evident, that the King having withdrawn himselfe from his Parlia<g ref="char:EOLhyphen"/>ment, hath thereby discouraged their proceedings: dis<g ref="char:EOLhyphen"/>couraged doth intimate as much as to dishearten, to op<g ref="char:EOLhyphen"/>pose and disanimate; as we women, when we are out of cloathes, are presently disceuraged: and there is no wo<g ref="char:EOLhyphen"/>man but hath read, that when <hi>Venus</hi> and <hi>Wulcan</hi> were ta<g ref="char:EOLhyphen"/>ken
+<pb facs="tcp:197549:4"/> in bed together, the Poet, as I remember, saith, they were discouraged. And indeed, put the case that any wo<g ref="char:EOLhyphen"/>man, though never so honest, were by her husband sur<g ref="char:EOLhyphen"/>prized, and found lying with another man, would not she on the sudden be much discouraged? and her husband al<g ref="char:EOLhyphen"/>so would bee so much discouraged, that hee would never love her afterward. But these are triviall idle matters, and therefore to proceed further, it followes, that he hath discouraged them in their proceedings, that is, the Parlia<g ref="char:EOLhyphen"/>ments proceedings: for they being all members of the Parliament, therefore whosoever they were that have withdrawne the King from the Parliament, have thereby also discouraged their proceedings, which a is shrewd matter: for how can they go forward, or bring any busi<g ref="char:EOLhyphen"/>nesse to effect, or bring to passe what hath been so long expected, while they are by the malignant party, and by the King, withdrawne from the Parliament discouraged, and that in their proceedings: for bashfull suiters never attaine their desires, women never become good house<g ref="char:EOLhyphen"/>wives, nor any busines can ever be well performed, if the party that doth goe about it, bee discouraged; how can then this Parliament doe that which they desired to per<g ref="char:EOLhyphen"/>forme for the good of this kingdome, if they be discoura<g ref="char:EOLhyphen"/>ged in their proceedings?</p>
+            <p>But let's proceed a little further, &amp; then it will be most evidently manifest, that this discouragement in their pro<g ref="char:EOLhyphen"/>ceedings, is nothing; but that which strikes and pierces us women to the heart, is this: It is most true, that the King hath raised an Army to destroy us all: now I pray you consider who it is hath raiseth these forces, it is no <hi>Wat Tiler</hi> or <hi>Iack Straw,</hi> or any such rebellious company that in former times did rise against the King, but the King doth intend to make warre against himselfe, or on those
+<pb facs="tcp:197549:5"/> that love him as wel as himselfe, that is, his loving sub<g ref="char:EOLhyphen"/>iects and Parliament, what follows then? why, by neces<g ref="char:EOLhyphen"/>sary consequence, if the King make war, it must be raised somewhere, and against some body; now this word rai<g ref="char:EOLhyphen"/>sing doth import a difficulty in doing any thing with vi<g ref="char:EOLhyphen"/>olence; and so we women beleeve that it will bee a hard matter for the King to raise a great Army in the North, even so it is a hard matter for any woman, though of very good breeding, to raise herselfe to be a Gentlewoman, or a yonger brother to raise his fortunes; but if the King ha<g ref="char:EOLhyphen"/>ving withdrawn himselfe from the Parliament, hath dis<g ref="char:EOLhyphen"/>couraged their proceeding, and also raised an Army to destroy us, we women doe purpose to raise up our vaines, and most heartily to curse the malignant party, who hath perswaded the King to raise this Army; and we women, to shew our good affection to the King and Parliament, will bee ever ready to reason and wrangle in defence of them both; and if we had nine lives like a Cat, or nine Cats lives, whieh according to that computation, would be eighty one lives, we would expose them all to hazzard for the maintenance of the Kings person and honour, and the priviledge of Parliament.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
